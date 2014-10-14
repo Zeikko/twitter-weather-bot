@@ -1,0 +1,24 @@
+{
+  "name": "twitter-weather-bot",
+  "version": "0.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zeikko/twitter-weather-bot.git"
+  },
+  "author": "Jaakko Ojalehto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zeikko/twitter-weather-bot/issues"
+  },
+  "homepage": "https://github.com/Zeikko/twitter-weather-bot",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "moment": "^2.8.3",
+    "node-twitterbot": "^0.2.2"
+  }
+}
